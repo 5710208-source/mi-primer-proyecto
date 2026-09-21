@@ -6,3 +6,7 @@ curso: curso de especializacion de desarollo de videojuegos y VR
 
 Esta es la primera practica usando git y guithub
 
+##Segunda parte 
+
+Estoy aprendiendo a utilizar git mediante comandos
+
